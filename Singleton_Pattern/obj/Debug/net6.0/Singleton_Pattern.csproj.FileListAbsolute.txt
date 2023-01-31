@@ -1,0 +1,15 @@
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\bin\Debug\net6.0\Singleton_Pattern.exe
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\bin\Debug\net6.0\Singleton_Pattern.deps.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\bin\Debug\net6.0\Singleton_Pattern.runtimeconfig.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\bin\Debug\net6.0\Singleton_Pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\bin\Debug\net6.0\ref\Singleton_Pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\bin\Debug\net6.0\Singleton_Pattern.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\Singleton_Pattern.csproj.AssemblyReference.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\Singleton_Pattern.AssemblyInfoInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\Singleton_Pattern.AssemblyInfo.cs
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\Singleton_Pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\ref\Singleton_Pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\Singleton_Pattern.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Singleton_Pattern\Singleton_Pattern\obj\Debug\net6.0\Singleton_Pattern.genruntimeconfig.cache
